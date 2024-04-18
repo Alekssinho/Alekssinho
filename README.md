@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-**- 🔭 I’m currently working on: Agiotagem**
+**- 🔭 I’m currently working on: Estudos**
 - 🌱 I’m currently learning: Nutriçao hospitalar 
 - 👯 I’m looking to collaborate on: GTA
 - 🤔 I’m looking for help with: Aprendizagem 
